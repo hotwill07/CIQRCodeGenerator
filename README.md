@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CIQRCodeGenerator
 
 ### 用来生成一个高清二维码以及指定颜色的高清二维码<br/>
@@ -19,6 +18,4 @@ pod 'CIQRCodeGenerator', '~> 1.0.2'
   success = [codeGenrator generatedCIQRCodeWithAddress:@"http://www.baidu.com" withHexColorString:@"#FF0000"];
   ```
   ![](https://github.com/hotwill07/CIQRCodeGenerator/blob/master/normal.png)  ![](https://github.com/hotwill07/CIQRCodeGenerator/blob/master/color.png)
-=======
-# CIQRCodeGenerator
->>>>>>> 904a03c01de940775f316a9738ad8c64585cc8f9
+
