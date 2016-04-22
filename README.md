@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CIQRCodeGenerator
 
 ### 用来生成一个高清二维码以及指定颜色的高清二维码<br/>
