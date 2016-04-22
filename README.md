@@ -2,7 +2,7 @@
 
 ### 用来生成一个高清二维码以及指定颜色的高清二维码<br/>
 ```
-pod 'CIQRCodeGenerator', '~> 1.0.2'
+pod 'CIQRCodeGenerator', '~> 1.0.0'
 ```
 
 #### 主要代码如下:
