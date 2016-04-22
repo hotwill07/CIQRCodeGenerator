@@ -9,7 +9,7 @@ pod 'CIQRCodeGenerator', '~> 1.0.0'
   ```
   CGFloat codeWidth = 150;
     
-  HYCIQRCodeGenerator *codeGenrator = [[HYCIQRCodeGenerator alloc] initWithFrame:CGRectMake((self.view.frame.size.width - codeWidth) / 2.0, (self.view.frame.size.height - codeWidth) / 2.0, codeWidth, codeWidth)];
+  CIQRCodeGeneratorView *codeGenrator = [[CIQRCodeGeneratorView alloc] initWithFrame:CGRectMake((self.view.frame.size.width - codeWidth) / 2.0, (self.view.frame.size.height - codeWidth) / 2.0, codeWidth, codeWidth)];
     
   //生成普通的高清二维码<br/>
   BOOL success = [codeGenrator generatedCIQRCodeWithAddress:@"http://www.baidu.com"];
